@@ -7,3 +7,5 @@ Lec 02 - Linear Regression의 Hypothesis와 cost 설명 - O
 Lec 03 - Linear Regression의 cost 최소화 알고리즘의 원리 설명 - O  
 Lec 04 - Multi-Variable Linear Regression - O  
 
+# 논문 읽고 구현해보기  
+1. LeNet-5 (with Mnist,Cifar-10) - O
