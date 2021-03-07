@@ -13,4 +13,6 @@ Lec 04 - Multi-Variable Linear Regression - O
 # 선형대수학  
 1. 공학과 수학에서의 벡터 : n-공간  - O  
 2. 내적과 직교 - O  
-3. 직선과 평면의 벡터 방정식 - O
+3. 직선과 평면의 벡터 방정식 - O  
+  
+# K-Mook
