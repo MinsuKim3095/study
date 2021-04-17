@@ -15,4 +15,4 @@ Lec 04 - Multi-Variable Linear Regression - O
 2. 내적과 직교 - O  
 3. 직선과 평면의 벡터 방정식 - O  
   
-# K-Mook
+# K-Mooc
